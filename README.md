@@ -22,12 +22,12 @@ Hey there, I'm Julian. Full-Stack Dev student by day and night.
 
 👨🏻‍💻 About Me
 
-💼   Working as Dual Student inside of the Chief Security Office @ Inmed GmbH
+💼   Working as a Student inside of the Chief Security Office @ Inmed GmbH
 
 🛠 Tech Stack
 
 💻   Java / Spring
-🌐   HTML | CSS / SASS | JavaScript | React
+🌐   HTML | CSS / SASS | JavaScript | Angular
 🛢   PostgreSQL
 🔧   Git 
 
